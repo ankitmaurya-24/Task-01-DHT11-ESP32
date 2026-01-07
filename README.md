@@ -19,3 +19,8 @@ Read temperature & humidity using DHT11 sensor on ESP32 and display on Serial Mo
 3. Open Serial Monitor at 115200 baud.
 ## Output
 ![Serial Monitor Output](<Screenshot 2026-01-05 100349.png>)
+## Output
+
+![Output 1](<Screenshot 2026-01-05 100349.png>)
+![Output 2](<WhatsApp Image 2026-01-04 at 9.23.00 PM.jpeg>)
+![Output 3](<WhatsApp Image 2026-01-04 at 9.23.23 PM.jpeg>)
