@@ -17,3 +17,5 @@ Read temperature & humidity using DHT11 sensor on ESP32 and display on Serial Mo
 1. Open the `.ino` file in Arduino IDE.
 2. Select board + COM port.
 3. Open Serial Monitor at 115200 baud.
+## Output
+![Serial Monitor Output](<Screenshot 2026-01-05 100349.png>)
